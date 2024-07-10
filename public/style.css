@@ -1,0 +1,11 @@
+h1{
+    color: magenta;
+}
+
+.post {
+    background-color: rgb(100, 214, 246);
+}
+
+.user {
+    font-style: italic;
+}
